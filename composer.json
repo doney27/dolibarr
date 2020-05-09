@@ -34,6 +34,7 @@
 		"tecnickcom/tcpdf" : "6.3.2",
 		"nnnick/chartjs" : "^2.9",
 		"stripe/stripe-php" : "6.43.1"
+		"ext-gd": "*"
 	},
 	"require-dev" : {
 		"jakub-onderka/php-parallel-lint" : "^0",
